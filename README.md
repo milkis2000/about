@@ -8,8 +8,6 @@ Most source structures remain partially or fully obfuscated as found in the orig
 
 This organization does not endorse piracy, unauthorized redistribution, commercial misuse, or attempts to bypass ownership requirements of the original titles.
 
-To respect the rights of owners, all repositories are uploaded one month after the original upload.
-
 All rights to original games, assets, trademarks, and intellectual property belong to their respective owners.
 
 
@@ -23,7 +21,5 @@ All rights to original games, assets, trademarks, and intellectual property belo
 대부분의 소스 구조는 원본 배포판에서와 같이 부분적으로 또는 완전히 난독화되어 있습니다. 이 저장소는 재배포가 아닌 아키텍처, 동작, 렌더링 흐름, 자산 로딩 및 게임 플레이 시스템 연구에 중점을 둡니다.
 
 이 저장소는 불법 복제, 무단 재배포, 상업적 오용 또는 원본 소유권 요건을 우회하려는 시도를 지지하지 않습니다.
-
-소유자의 권리 존중을 위해 모든 레포지토리는 원본 업로드 기준 1달 뒤에 업로드 합니다.
 
 원본 게임, 자산, 상표 및 지적 재산권에 대한 모든 권리는 해당 소유자에게 있습니다.
